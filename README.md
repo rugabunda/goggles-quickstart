@@ -55,7 +55,6 @@ Want to learn more about the motivation for Goggles? Check out the [Goggles whit
 * [Can Goggles ownership be transferred?](https://github.com/brave/goggles-quickstart/blob/main/faq.md#can-goggles-ownership-be-transferred)
 * [Do Goggles contribute to polarization?](https://github.com/brave/goggles-quickstart/blob/main/faq.md#do-goggles-contribute-to-polarization)
 * [What’s next for Goggles?](https://github.com/brave/goggles-quickstart/blob/main/faq.md#do-goggles-contribute-to-polarization)
-* [Why is Goggles in Beta?](https://github.com/brave/goggles-quickstart/blob/main/faq.md#why-is-goggles-in-beta)
 * [Why is a particular page not recoverable with Goggles?](https://github.com/brave/goggles-quickstart/blob/main/faq.md#why-is-a-particular-page-not-recoverable-with-goggles)
 * [Can anyone create a Goggle or is it only for developers?](https://github.com/brave/goggles-quickstart/blob/main/faq.md#can-anyone-create-a-goggle-or-is-it-only-for-developers)
 * [How can I discover new Goggles?](https://github.com/brave/goggles-quickstart/blob/main/faq.md#how-can-i-discover-new-goggles)

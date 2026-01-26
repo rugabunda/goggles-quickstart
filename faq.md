@@ -26,7 +26,7 @@ the examples functional.
 Goggles are by definition open-source, however, the authors can choose any
 license they please. People forking a Goggle are subjected to the terms of its
 license as any other open-source piece of software.
- 
+
 
 ## Why can’t I apply multiple Goggles at the same time?
 
@@ -81,7 +81,7 @@ case of success:
 * All transfers will be logged and publicly accessible for transparency and traceability (coming soon).
 
 Note, there are no guarantees of the truthfulness or accuracy of any Goggle
-outside the reputation of their creators/maintainers. 
+outside the reputation of their creators/maintainers.
 
 
 ## Do Goggles contribute to polarization?
@@ -92,7 +92,7 @@ fact, we believe they can help combat these issues.
 First, Goggles does not always have to be about polarizing topics such as
 politics. Of course, this kind of Goggles will exist and be popular. For
 instance the team at [Allsides](https://allsides.com/) have already built
-multiple addressing different political leanings. 
+multiple addressing different political leanings.
 
 However, we believe that most Goggles will deal with specific use-cases that
 are too niche to be properly covered by an all-purpose search engine, which of
@@ -127,11 +127,9 @@ respected, regardless of personal opinions.
 
 ## What’s next for Goggles?
 
-Goggles is in beta, and subjected to evolution depending on the most important
-factor: the community of creators.
-
-We believe that the current state is enough to be open, but we’ll closely
-monitor feedback.
+Goggles is subjected to evolution depending on the most important factor: the
+community of creators. We believe that the current state is enough to be open,
+but we’ll closely monitor feedback.
 
 There are some things that we already know need to be improved or expanded, for
 which we welcome the community to contribute, including:
@@ -149,18 +147,6 @@ which we welcome the community to contribute, including:
 * We will work on making the Goggles language more powerful and able to target
   results in more diverse ways. For example, by allowing a match on page
   titles, descriptions, or content.
-
-
-## Why is Goggles in Beta?
-
-Goggles represents a fundamental push towards algorithmic transparency and
-openness in search. The community plays a crucial role in this vision. While in
-beta, we will keep Goggles on a dedicated tab at
-https://search.brave.com/goggles. Once out of beta it will be integrated into
-the main search interface.
-
-Goggles, especially while in beta, is a living project. It will evolve thanks
-to the feedback and needs of the community of builders.
 
 
 ## Why is a particular page not recoverable with Goggles?

@@ -85,7 +85,7 @@ express complex reranking functions:
 
 To update a Goggle, you must resubmit the Goggle URL in
 https://search.brave.com/goggles/create. This will trigger a re-fetch of the
-updated Goggle source, and then make it available on Brave Search. 
+updated Goggle source, and then make it available on Brave Search.
 
 It’s important to know that Brave Search does not maintain a version history of
 Goggles, which means the author is solely responsible for the content of their
@@ -102,10 +102,10 @@ URL in https://search.brave.com/goggles/create.
 ## Learn by example
 
 We believe it’s best to learn by example—this is why we created some Goggles
-for the beta release, strictly for educational purposes, they are authored by
-“Goggles 101” and hosted in this repository under the [goggles folder](./goggles).
-Any Goggle not hosted by Brave is, of course, not affiliated with Brave in any
-way.
+for the release, strictly for educational purposes, they are authored by
+“Goggles 101” and hosted in this repository under the [goggles
+folder](./goggles). Any Goggle not hosted by Brave is, of course, not
+affiliated with Brave in any way.
 
 These Goggles are best-effort and as-is. We will not actively maintain them, as
 their sole purpose is to showcase some basic use-cases of what is possible with
@@ -135,7 +135,7 @@ Creating Goggles is simple. However, they often need some fine-tuning to shine.
 The typical flow is to create the first set of instructions and then have a
 test set to evaluate the effect it has on the ranking. You will probably see
 some odd results and further instructions will be needed. Rinse and repeat is
-the name of the game. 
+the name of the game.
 
 To make this task a little less tedious, we provide some explanations on the
 results that have been affected by the instructions in the Goggle.
@@ -147,7 +147,7 @@ This might help you in the process.
 
 ## Sharing a Goggle with the world
 
-Any Goggle you create can either be `private` or `public`. 
+Any Goggle you create can either be `private` or `public`.
 
 If it is `private`, it will not be discoverable, and will only be accessible to
 those who know the Goggle URL.
@@ -174,8 +174,7 @@ Goggles, please refer to the [Goggles quickstart
 guide](./goggles/quickstart.goggle).
 
 Certain Goggles that become very popular might end up being displayed on the
-[discovery page’s](https://search.brave.com/goggles/discover) Popular Goggles section. For the beta launch, we’re only
-displaying the educational Goggles.
+[discovery page’s](https://search.brave.com/goggles/discover) Popular Goggles section.
 
 However, the preferred option to discover Goggles is to find them directly from
 the creator on their own channels. Sharing your Goggle is as simple as building
